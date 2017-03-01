@@ -1,4 +1,4 @@
-Cordoma sample with fingerprint
+Cordova sample with fingerprint
 ====
 
 This is sample project for cordova with fingerprint auth.
